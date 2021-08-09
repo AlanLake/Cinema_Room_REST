@@ -1,2 +1,2 @@
 # Cinema_Room_REST
-Hyperskill project
+Hyperskill's project
